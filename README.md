@@ -23,7 +23,7 @@ Compared popular apps like Stretchly and Timeout. Most lack fun, customizable br
 - Optional sound alert
 
 ## 🧪 Wireframes
-![Wireframes](./5_wireframes/greenmind-wireframes.png)
+https://github.com/asmamanzoor1/GreenMind-Product-Management/blob/main/Mobile%20App%20Wireframe%20for%20Break%20Reminders.png?raw=true
 
 ## 📁 Files Included (in this order)
 - Problem Statement
