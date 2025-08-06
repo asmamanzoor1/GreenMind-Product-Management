@@ -25,13 +25,13 @@ Compared popular apps like Stretchly and Timeout. Most lack fun, customizable br
 ## 🧪 Wireframes
 ![Wireframes](./5_wireframes/greenmind-wireframes.png)
 
-## 📁 Files Included
+## 📁 Files Included (in this order)
 - Problem Statement
-- User Research Summary
+- User Research Summary + Google Form Responses
 - Competitive Analysis
 - Feature Prioritization
 - MVP Wireframes
-- Google Form responses
+
 
 ---
 
