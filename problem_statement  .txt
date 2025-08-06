@@ -1,0 +1,25 @@
+﻿GreenMind Product Management Project - Part 1
+
+
+What is the problem? 
+If you’re like me, a college student juggling classes, internships, and a million things online, you know how easy it is to get stuck staring at your screen for hours on end. Breaks? What breaks? Between deadlines and Zoom calls, it feels impossible to pause and recharge. But skipping breaks means eye strain, brain fog, and that sluggish, “I-can’t-focus” feeling that drags your whole day down.
+Most break reminders out there are either too pushy, boring, or just annoying, so they get ignored or turned off. There’s got to be a better way & one that actually helps us take those much-needed moments without killing our flow or adding guilt.
+
+
+Who has this problem?
+-College students grinding through classes and projects
+-Interns navigating remote work and virtual meetings
+-Anyone balancing extracurriculars, coding sessions, or creative deep dives
+If you’re trying to stay productive AND sane, but struggle to remember to take breaks, this app’s for you.
+
+
+Why does it matter?
+Pomodoro timers and productivity apps are great, but let’s be honest — they can feel like an alarm clock screaming at you to stop. Not exactly the vibe when you’re in “zone mode.” Many people just snooze or disable these reminders because they disrupt flow or sound too robotic. GreenMind fills the gap by offering a gentle, mindful approach — reminding you to care for your mind and body without the stress or pressure.
+
+
+Hypothesis
+If people had a break reminder system that was gentle, customizable, and mindful — instead of strict or annoying — they’d be more likely to actually take meaningful breaks, improving focus, well-being, and long-term energy.
+
+
+Solution
+GreenMind is a mindful break reminder app that helps students and remote workers take healthy, guilt-free screen breaks — all while staying in their flow.
