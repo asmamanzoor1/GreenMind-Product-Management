@@ -35,5 +35,5 @@ Compared popular apps like Stretchly and Timeout. Most lack fun, customizable br
 
 ---
 
-Made with 💚 by Asma Manzoor
+ ~ Asma Manzoor 💚
 
